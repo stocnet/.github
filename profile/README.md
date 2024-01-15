@@ -2,6 +2,12 @@
 
 This account holds and maintains various repositories for the development of stochastic network software.
 
+At the moment this includes:
+
+- [manynet](https://github.com/stocnet/manynet)
+- [migraph](https://github.com/stocnet/migraph)
+- [goldfish](https://github.com/stocnet/goldfish)
+
 <!--
 
 **Here are some ideas to get you started:**
