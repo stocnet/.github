@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-This account holds and maintains various repositories for the development of stochastic network software.
-
-At the moment this includes:
+*stocnet* is an open software system for the advanced statistical analysis of social networks.
+Its history reaches [back to 1998](https://stocnet.gmw.rug.nl/content/project.htm),
+but its new guise as a github organisation is since the start of 2024.
+It currently includes the following software:
 
 - [manynet](https://github.com/stocnet/manynet)
 - [migraph](https://github.com/stocnet/migraph)
 - [goldfish](https://github.com/stocnet/goldfish)
+- [rsiena](https://github.com/stocnet/rsiena)
 
 <!--
 
