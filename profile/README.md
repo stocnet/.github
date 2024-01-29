@@ -9,6 +9,7 @@ It currently includes the following software:
 - [migraph](https://github.com/stocnet/migraph)
 - [goldfish](https://github.com/stocnet/goldfish)
 - [rsiena](https://github.com/stocnet/rsiena)
+- [MoNAn](https://github.com/stocnet/MoNAn)
 
 <!--
 
