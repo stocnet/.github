@@ -10,6 +10,7 @@ It currently includes the following software:
 - [goldfish](https://github.com/stocnet/goldfish)
 - [rsiena](https://github.com/stocnet/rsiena)
 - [MoNAn](https://github.com/stocnet/MoNAn)
+- [ERPM](https://github.com/stocnet/ERPM)
 
 <!--
 
