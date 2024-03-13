@@ -12,13 +12,13 @@ It currently includes the following software:
 - [MoNAn](https://github.com/stocnet/MoNAn)
 - [ERPM](https://github.com/stocnet/ERPM)
 
-<!--
+## 👩‍💻 Useful resources
 
-**Here are some ideas to get you started:**
+- [Oxford RSiena website](https://www.stats.ox.ac.uk/~snijders/siena/)
+- [Latest RSiena manual](https://www.stats.ox.ac.uk/~snijders/siena/RSiena_Manual.pdf)
+- [RSiena groups.io mailing list](https://groups.io/g/RSiena)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🙋‍♀️ Contributions
+
+We welcome contributions to any of these packages.
+There are also opportunities to raise more general discussions through the Discussion tab above.
