@@ -21,4 +21,6 @@ It currently includes the following software:
 ## 🙋‍♀️ Contributions
 
 We welcome contributions to any of these packages.
-There are also opportunities to raise more general discussions through the Discussion tab above.
+Contributions might take the form of raising issues (bugs or features), discussing different options,
+or proposing changes to the codebase.
+We have reserved a space for discussions across the stocnet packages at the [Discussions](https://github.com/orgs/stocnet/discussions) tab above.
