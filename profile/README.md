@@ -10,7 +10,7 @@ It currently includes the following software:
 - [goldfish](https://github.com/stocnet/goldfish)
 - [rsiena](https://github.com/stocnet/rsiena)
 - [MoNAn](https://github.com/stocnet/MoNAn)
-- [ERPM](https://github.com/stocnet/ERPM)
+- [ERPM](https://github.com/stocnet/ERPM) extends Exponential Random Graph Models (ERGMs) for partitions, i.e. sets of non-overlapping groups, such as face-to-face interactions, animal herds, political coalitions, etc. This model can be used to explain cross-sectional or longitudinal observed partitions through group formation processes based on individual attributes, relations between individuals, and size-related factors.
 
 ## 👩‍💻 Useful resources
 
