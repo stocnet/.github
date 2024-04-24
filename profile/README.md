@@ -14,9 +14,12 @@ It currently includes the following software:
 
 ## 👩‍💻 Useful resources
 
-- [Oxford RSiena website](https://www.stats.ox.ac.uk/~snijders/siena/)
-- [Latest RSiena manual](https://www.stats.ox.ac.uk/~snijders/siena/RSiena_Manual.pdf)
-- [RSiena groups.io mailing list](https://groups.io/g/RSiena)
+- manynet/migraph
+  - [manynet/migraph tutorials](https://github.com/stocnet/manynet?tab=readme-ov-file#tutorials)
+- RSiena
+  - [Oxford RSiena website](https://www.stats.ox.ac.uk/~snijders/siena/)
+  - [Latest RSiena manual](https://www.stats.ox.ac.uk/~snijders/siena/RSiena_Manual.pdf)
+  - [RSiena groups.io mailing list](https://groups.io/g/RSiena)
 
 ## 🙋‍♀️ Contributions
 
