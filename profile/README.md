@@ -23,7 +23,8 @@ It currently includes the following software:
 
 ## 🙋‍♀️ Upcoming workshops
 
-- manynet@Sunbelt ["Many metrics and models for network diffusion"](https://sunbelt2024.com/workshop-schedule/) (2024-06-24, pm)
+- 2024-06-24: manynet@Sunbelt, ["Many metrics and models for network diffusion"](https://sunbelt2024.com/workshop-schedule/)
+- 2024-07-22 -- 2024-07-26: manynet@ECPR, ["Introduction to Social Network Analysis"](https://ecpr.eu/Events/Event/PanelDetails/15556)
 
 ## :information_desk_person: Contributions
 
