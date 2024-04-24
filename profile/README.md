@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome 👋
 
 *stocnet* is an open software system for the advanced statistical analysis of social networks.
 Its history reaches [back to 1998](https://stocnet.gmw.rug.nl/content/project.htm),
@@ -21,7 +21,9 @@ It currently includes the following software:
   - [Latest RSiena manual](https://www.stats.ox.ac.uk/~snijders/siena/RSiena_Manual.pdf)
   - [RSiena groups.io mailing list](https://groups.io/g/RSiena)
 
-## 🙋‍♀️ Contributions
+## 🙋‍♀️ Upcoming workshops
+
+## :information_desk_person: Contributions
 
 We welcome contributions to any of these packages.
 Contributions might take the form of raising issues (bugs or features), discussing different options,
