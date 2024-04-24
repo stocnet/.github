@@ -20,11 +20,13 @@ It currently includes the following software:
   - [Oxford RSiena website](https://www.stats.ox.ac.uk/~snijders/siena/)
   - [Latest RSiena manual](https://www.stats.ox.ac.uk/~snijders/siena/RSiena_Manual.pdf)
   - [RSiena groups.io mailing list](https://groups.io/g/RSiena)
+- goldfish
+  - [goldfish vignettes](https://github.com/stocnet/goldfish?tab=readme-ov-file#vignettes)
 
 ## 🙋‍♀️ Upcoming workshops
 
 - 2024-06-24: manynet@Sunbelt, ["Many metrics and models for network diffusion"](https://sunbelt2024.com/workshop-schedule/)
-- 2024-07-22 -- 2024-07-26: manynet@ECPR, ["Introduction to Social Network Analysis"](https://ecpr.eu/Events/Event/PanelDetails/15556)
+- 2024-07-22 - 2024-07-26: manynet@ECPR, ["Introduction to Social Network Analysis"](https://ecpr.eu/Events/Event/PanelDetails/15556)
 
 ## :information_desk_person: Contributions
 
