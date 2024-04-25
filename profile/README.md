@@ -26,6 +26,12 @@ It currently includes the following software:
 ## 🙋‍♀️ Upcoming workshops
 
 - 2024-06-24: manynet@Sunbelt, ["Many metrics and models for network diffusion"](https://sunbelt2024.com/workshop-schedule/)
+- 2024-06-25: rsiena@Sunbelt, ["The analysis of longitudinal social	network data using RSiena"](https://sunbelt2024.com/workshop-schedule/)
+- 2024-06-25: rsiena@Sunbelt, ["Analyzing the dynamics of networks and continuous behavior with RSiena"](https://sunbelt2024.com/workshop-schedule/)
+- 2024-06-25: rsiena@Sunbelt, ["Empirically calibrated simulations with RSiena and ERGM"](https://sunbelt2024.com/workshop-schedule/)
+- 2024-06-25: rsiena@Sunbelt, ["Handling missing data in RSiena"](https://sunbelt2024.com/workshop-schedule/)
+- 2024-06-25: rsiena@Sunbelt, ["Analyzing the Structure and Evolution of Scientific Co-publishing Networks with RSiena"](https://sunbelt2024.com/workshop-schedule/)
+- 2024-06-25: rsiena@Sunbelt, ["Introduction to the analysis of multilevel network dynamics using multiSiena"](https://sunbelt2024.com/workshop-schedule/)
 - 2024-07-22 - 2024-07-26: manynet@ECPR, ["Introduction to Social Network Analysis"](https://ecpr.eu/Events/Event/PanelDetails/15556)
 
 ## :information_desk_person: Contributions
