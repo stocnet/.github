@@ -28,14 +28,14 @@ It currently includes the following software:
 
 ## 🙋‍♀️ Upcoming workshops
 
-- 20-24 January 2025: 15th Winter School on Longitudinal Social
+- 20-24 January 2025: *15th Winter School on Longitudinal Social
 Network Analysis* that will take place at the *University of Groningen*
 (The Netherlands) in the week of *20-24 January 2025*. This consists of a three-day introductory course followed by
 a two-day *Advanced Siena Users' Meeting (AdSUM-2025)* that includes a
 Master Class opportunity for in-depth consultation related to your data
 sets and/or work-in-progress. Teachers will be *Christian Steglich* and *Tom Snijders*.
 See  https://steglich.gmw.rug.nl/workshops/Groningen2025-call.htm
-- 18-20 February 2025: Online livestream workshop "Introduction to longitudinal social network analysis using RSiena".
+- 18-20 February 2025: Online livestream workshop *Introduction to longitudinal social network analysis using RSiena*.
 See https://instats.org/seminar/longitudinal-social-network-analysis2. Teacher will be *Tom Snijders*.
 ## :information_desk_person: Contributions
 
