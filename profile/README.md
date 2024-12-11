@@ -28,16 +28,15 @@ It currently includes the following software:
 
 ## 🙋‍♀️ Upcoming workshops
 
-- 2024-06-24: manynet@Sunbelt, ["Many metrics and models for network diffusion"](https://sunbelt2024.com/workshop-schedule/)
-- 2024-06-25: rsiena@Sunbelt, ["The analysis of longitudinal social	network data using RSiena"](https://sunbelt2024.com/workshop-schedule/)
-- 2024-06-25: rsiena@Sunbelt, ["Analyzing the dynamics of networks and continuous behavior with RSiena"](https://sunbelt2024.com/workshop-schedule/)
-- 2024-06-25: rsiena@Sunbelt, ["Empirically calibrated simulations with RSiena and ERGM"](https://sunbelt2024.com/workshop-schedule/)
-- 2024-06-25: rsiena@Sunbelt, ["Handling missing data in RSiena"](https://sunbelt2024.com/workshop-schedule/)
-- 2024-06-25: rsiena@Sunbelt, ["Analyzing the Structure and Evolution of Scientific Co-publishing Networks with RSiena"](https://sunbelt2024.com/workshop-schedule/)
-- 2024-06-25: rsiena@Sunbelt, ["Introduction to the analysis of multilevel network dynamics using multiSiena"](https://sunbelt2024.com/workshop-schedule/)
-- 2024-07-22 - 2024-07-26: manynet@ECPR, ["Introduction to Social Network Analysis"](https://ecpr.eu/Events/Event/PanelDetails/15556)
-- 09-11 Oct 2024: MoNAn in Zürich ["Course/workshop in Zurich to analyse mobility networks in R, 2nd edition"](https://www.suz.uzh.ch/de/institut/professuren/block/monan_software.html)
-
+- 20-24 January 2025: 15th Winter School on Longitudinal Social
+Network Analysis* that will take place at the *University of Groningen*
+(The Netherlands) in the week of *20-24 January 2025*. This consists of a three-day introductory course followed by
+a two-day *Advanced Siena Users' Meeting (AdSUM-2025)* that includes a
+Master Class opportunity for in-depth consultation related to your data
+sets and/or work-in-progress. Teachers will be *Christian Steglich* and *Tom Snijders*.
+See  https://steglich.gmw.rug.nl/workshops/Groningen2025-call.htm
+- 18-20 February 2025: Online livestream workshop "Introduction to longitudinal social network analysis using RSiena".
+See https://instats.org/seminar/longitudinal-social-network-analysis2. Teacher will be *Tom Snijders*.
 ## :information_desk_person: Contributions
 
 We welcome contributions to any of these packages.
