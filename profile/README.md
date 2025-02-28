@@ -37,6 +37,11 @@ sets and/or work-in-progress. Teachers will be *Christian Steglich* and *Tom Sni
 See  https://steglich.gmw.rug.nl/workshops/Groningen2025-call.htm
 - 18-20 February 2025: Online livestream workshop *Introduction to longitudinal social network analysis using RSiena*.
 See https://instats.org/seminar/longitudinal-social-network-analysis2. Teacher will be *Tom Snijders*.
+- 23 June 2025: day workshop *The analysis of longitudinal social network data using RSiena* at the 2025 Sunbelt conference in Paris.
+Registration on the [conference website](https://www.insna.org/events/sunbelt-2025--paris). Teachers will be *Viviana Amati* and *Marion Hoffman*.
+- 24 June 2025: half-day workshop *Modeling Relational Events in R Using goldfish* at the 2025 Sunbelt conference in Paris.
+Registration on the [conference website](https://www.insna.org/events/sunbelt-2025--paris). Teachers will be *Alvaro Uzaheta*, *Maria Eugenia Gil-Pallares*, *Christoph Stadtfeld*, *Marion Hoffman*, and *James Hollway*.
+
 ## :information_desk_person: Contributions
 
 We welcome contributions to any of these packages.
