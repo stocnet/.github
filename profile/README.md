@@ -28,19 +28,15 @@ It currently includes the following software:
 
 ## 🙋‍♀️ Upcoming workshops
 
-- 20-24 January 2025: *15th Winter School on Longitudinal Social
-Network Analysis* that will take place at the *University of Groningen*
-(The Netherlands) in the week of *20-24 January 2025*. This consists of a three-day introductory course followed by
-a two-day *Advanced Siena Users' Meeting (AdSUM-2025)* that includes a
-Master Class opportunity for in-depth consultation related to your data
-sets and/or work-in-progress. Teachers will be *Christian Steglich* and *Tom Snijders*.
-See  https://steglich.gmw.rug.nl/workshops/Groningen2025-call.htm
-- 18-20 February 2025: Online livestream workshop *Introduction to longitudinal social network analysis using RSiena*.
-See https://instats.org/seminar/longitudinal-social-network-analysis2. Teacher will be *Tom Snijders*.
-- 23 June 2025: day workshop *The analysis of longitudinal social network data using RSiena* at the 2025 Sunbelt conference in Paris.
+- 23 June 2025: full-day workshop *The analysis of longitudinal social network data using RSiena* at the 2025 Sunbelt conference in Paris.
 Registration on the [conference website](https://www.insna.org/events/sunbelt-2025--paris). Teachers will be *Viviana Amati* and *Marion Hoffman*.
+- 23 June 2025: half-day workshop *Creating New Effects in RSiena* at the 2025 Sunbelt conference in Paris. Registration on the [conference website](https://www.insna.org/events/sunbelt-2025--paris). Teacher will be *Nynke Niezink*.
 - 24 June 2025: half-day workshop *Modeling Relational Events in R Using goldfish* at the 2025 Sunbelt conference in Paris.
 Registration on the [conference website](https://www.insna.org/events/sunbelt-2025--paris). Teachers will be *Alvaro Uzaheta*, *Maria Eugenia Gil-Pallares*, *Christoph Stadtfeld*, *Marion Hoffman*, and *James Hollway*.
+- 24 June 2025: full-day workshop *Advanced RSiena workshop* at the 2025 Sunbelt conference in Paris.
+Registration on the [conference website](https://www.insna.org/events/sunbelt-2025--paris). Teacher will be *Tom Snijders*.
+- 24 June 2025: half-day workshop *Introduction to the analysis of multilevel network dynamics using multiSiena* at the 2025 Sunbelt conference in Paris. Registration on the [conference website](https://www.insna.org/events/sunbelt-2025--paris). Teacher will be *Johan Koskinen*.
+
 
 ## :information_desk_person: Contributions
 
