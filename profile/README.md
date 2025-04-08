@@ -36,6 +36,8 @@ Registration on the [conference website](https://www.insna.org/events/sunbelt-20
 - 24 June 2025: full-day workshop *Advanced RSiena workshop* at the 2025 Sunbelt conference in Paris.
 Registration on the [conference website](https://www.insna.org/events/sunbelt-2025--paris). Teacher will be *Tom Snijders*.
 - 24 June 2025: half-day workshop *Introduction to the analysis of multilevel network dynamics using multiSiena* at the 2025 Sunbelt conference in Paris. Registration on the [conference website](https://www.insna.org/events/sunbelt-2025--paris). Teacher will be *Johan Koskinen*.
+- Instats offers an introductory online workshop about the Stochastic Actor-oriented Model and the RSiena package, taught by Tom Snijders. It is an on-demand workshop, which you can follow at your own time and at your own pace. It consists of 18 recorded sessions of 45 minutes each.
+The course is at https://instats.org/seminar/longitudinal-social-network-analysis.
 
 
 ## :information_desk_person: Contributions
