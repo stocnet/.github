@@ -31,6 +31,7 @@ It currently includes the following software:
 - 23 June 2025: full-day workshop *The analysis of longitudinal social network data using RSiena* at the 2025 Sunbelt conference in Paris.
 Registration on the [conference website](https://www.insna.org/events/sunbelt-2025--paris). Teachers will be *Viviana Amati* and *Marion Hoffman*.
 - 23 June 2025: half-day workshop *Creating New Effects in RSiena* at the 2025 Sunbelt conference in Paris. Registration on the [conference website](https://www.insna.org/events/sunbelt-2025--paris). Teacher will be *Nynke Niezink*.
+- 23 June 2025: half-day workshop *Introduction to inference with networks in R* at the 2025 Sunbelt conference in Paris. Registration on the [conference website](https://www.insna.org/events/sunbelt-2025--paris). Teachers will be *Robert Krause*, *James Hollway*, *Tomas Diviak*, and *Filip Agneesens*.
 - 24 June 2025: half-day workshop *Modeling Relational Events in R Using goldfish* at the 2025 Sunbelt conference in Paris.
 Registration on the [conference website](https://www.insna.org/events/sunbelt-2025--paris). Teachers will be *Alvaro Uzaheta*, *Maria Eugenia Gil-Pallares*, *Christoph Stadtfeld*, *Marion Hoffman*, and *James Hollway*.
 - 24 June 2025: full-day workshop *Advanced RSiena workshop* at the 2025 Sunbelt conference in Paris.
