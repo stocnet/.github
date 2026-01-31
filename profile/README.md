@@ -29,15 +29,20 @@ It currently includes the following software:
 
 ## 🙋‍♀️ Upcoming workshops
 
-- 23 June 2025: full-day workshop *The analysis of longitudinal social network data using RSiena* at the 2025 Sunbelt conference in Paris.
-Registration on the [conference website](https://www.insna.org/events/sunbelt-2025--paris). Teachers will be *Viviana Amati* and *Marion Hoffman*.
-- 23 June 2025: half-day workshop *Creating New Effects in RSiena* at the 2025 Sunbelt conference in Paris. Registration on the [conference website](https://www.insna.org/events/sunbelt-2025--paris). Teacher will be *Nynke Niezink*.
-- 23 June 2025: half-day workshop *Introduction to inference with networks in R* at the 2025 Sunbelt conference in Paris. Registration on the [conference website](https://www.insna.org/events/sunbelt-2025--paris). Teachers will be *Robert Krause*, *James Hollway*, *Tomas Diviak*, and *Filip Agneesens*.
-- 24 June 2025: half-day workshop *Modeling Relational Events in R Using goldfish* at the 2025 Sunbelt conference in Paris.
-Registration on the [conference website](https://www.insna.org/events/sunbelt-2025--paris). Teachers will be *Alvaro Uzaheta*, *Maria Eugenia Gil-Pallares*, *Christoph Stadtfeld*, *Marion Hoffman*, and *James Hollway*.
-- 24 June 2025: full-day workshop *Advanced RSiena workshop* at the 2025 Sunbelt conference in Paris.
-Registration on the [conference website](https://www.insna.org/events/sunbelt-2025--paris). Teacher will be *Tom Snijders*.
-- 24 June 2025: half-day workshop *Introduction to the analysis of multilevel network dynamics using multiSiena* at the 2025 Sunbelt conference in Paris. Registration on the [conference website](https://www.insna.org/events/sunbelt-2025--paris). Teacher will be *Johan Koskinen*.
+- 11 August 2026: full-day workshop *Introduction to using R for social network analysis* at the 2026 European Social Networks Conference in Norrköping.
+Registration will open on the [conference website](https://liu.se/en/event/eusn-2026). Teachers will be *Tomas Diviak*, *James Hollway*, *Robert Krause* and *Filip Agneesens*.
+- 11 August 2026: full-day workshop *Modeling Relational Events in R Using goldfish* at the  2026 European Social Networks Conference in Norrköping.
+Registration will open on the [conference website](https://liu.se/en/event/eusn-2026). Teachers will be *Alvaro Uzaheta*, *Maria Eugenia Gil-Pallares*, *Marion Hoffman*, *James Hollway* and  *Christoph Stadtfeld*.
+- 11 August 2026: half-day workshop *Interpreting Model Estimates: Marginal Effects in RSiena* at the 2026 European Social Networks Conference in Norrköping.
+Registration will open on the [conference website](https://liu.se/en/event/eusn-2026). Teachers will be *Daniel Gotthardt*, *Christian Steglich* and * Marijtje van Duijn* 
+- 15 August 2026: half-day workshop *Introduction to inference with networks in R* at the 2026 European Social Networks Conference in Norrköping.
+Registration will open on the [conference website](https://liu.se/en/event/eusn-2026). Teachers will be *Robert Krause*, *James Hollway*, *Tomas Diviak*, and *Filip Agneesens*.
+- 15 August 2026: full-day workshop *The analysis of longitudinal social network data using RSiena* at the 2026 European Social Networks Conference in Norrköping.
+Registration will open on the [conference website](https://liu.se/en/event/eusn-2026). Teachers will be *Viviana Amati* and *Marion Hoffman*.
+- 15 August 2026: half-day workshop *Implementing Effects in RSiena* at the 2026 European Social Networks Conference in Norrköping.
+Registration will open on the [conference website](https://liu.se/en/event/eusn-2026). Teacher will be *Nynke Niezink*.
+- 15 August 2026: full-day workshop *Advanced RSiena workshop* at the 2026 European Social Networks Conference in Norrköping.
+Registration will open on the [conference website](https://liu.se/en/event/eusn-2026). Teacher will be *Tom Snijders*.
 - Instats offers an introductory online workshop about the Stochastic Actor-oriented Model and the RSiena package, taught by Tom Snijders. It is an on-demand workshop, which you can follow at your own time and at your own pace. It consists of 18 recorded sessions of 45 minutes each.
 The course is at https://instats.org/seminar/longitudinal-social-network-analysis.
 
