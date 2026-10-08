@@ -30,19 +30,8 @@ It currently includes the following software:
 
 ## 🙋‍♀️ Upcoming workshops
 
-- 11 August 2026: full-day workshop *Introduction to using R for social network analysis* at the 2026 European Social Networks Conference in Norrköping.
-Registration is now open via the [conference website](https://liu.se/en/event/eusn-2026). Teachers will be *Tomas Diviak*, *James Hollway*, *Robert Krause* and *Filip Agneesens*.
-- 11 August 2026: full-day workshop *The analysis of longitudinal social network data using RSiena* at the 2026 European Social Networks Conference in Norrköping.
-Registration is now open via the [conference website](https://liu.se/en/event/eusn-2026). Teachers will be *Viviana Amati* and *Marion Hoffman*.
-- 11 August 2026: full-day workshop *Modeling Relational Events in R Using goldfish* at the  2026 European Social Networks Conference in Norrköping.
-Registration is now open via the [conference website](https://liu.se/en/event/eusn-2026). Teachers will be *Alvaro Uzaheta*, *Maria Eugenia Gil-Pallares*, *Marion Hoffman*, *James Hollway* and  *Christoph Stadtfeld*.
-- 11 August 2026: half-day workshop *Interpreting Model Estimates: Marginal Effects in RSiena* at the 2026 European Social Networks Conference in Norrköping.
-Registration is now open via the [conference website](https://liu.se/en/event/eusn-2026). Teachers will be *Daniel Gotthardt*, *Christian Steglich* and *Marijtje van Duijn*.
-- 15 August 2026: half-day workshop *Implementing Effects in RSiena* at the 2026 European Social Networks Conference in Norrköping.
-Registration is now open via the [conference website](https://liu.se/en/event/eusn-2026). Teacher will be *Nynke Niezink*.
-- 15 August 2026: full-day workshop *Advanced RSiena workshop* at the 2026 European Social Networks Conference in Norrköping.
-Registration is now open via the [conference website](https://liu.se/en/event/eusn-2026). Teacher will be *Tom Snijders*.
 - 3-10 September 2026: five half-day workshops *Introduction to Social Network Analysis* at the 2026 European Consortium for Political Research conference online and in Krakow. Registration is now open [here](https://ecpr.eu/Events/Event/PanelDetails/15556). Teacher will be *James Hollway*.
+- 18-22 January 2027: The *16th Winter School on Longitudinal Social Network Analysis* and the *Advanced Siena Users' Meeting (AdSUM-2027)* will take place in Groningen, The Netherlands. Registration is open via the [Winter School's website]([https://liu.se/en/event/eusn-2026](https://steglich.gmw.rug.nl/workshops/Groningen2027-call.html).Teachers will be *Christian Steglich* and *Tom Snijders*.
 - Instats offers an introductory online workshop about the Stochastic Actor-oriented Model and the RSiena package, taught by Tom Snijders. It is an on-demand workshop, which you can follow at your own time and at your own pace. It consists of 18 recorded sessions of 45 minutes each.
 The course is at https://instats.org/seminar/longitudinal-social-network-analysis.
 
